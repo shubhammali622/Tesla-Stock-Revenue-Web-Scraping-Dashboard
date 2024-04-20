@@ -1,1 +1,1 @@
-# Tesla-&-GameStop-Stock-&-Revenue-Web-Scraping-Dashboard
+# Tesla/GameStop-Stock-&-Revenue-Web-Scraping-Dashboard
